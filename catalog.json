@@ -1,0 +1,2046 @@
+[
+{
+"id": "sel_btd6",
+"name": "Btd6",
+"path": "h/sel_btd6.html",
+"base": "a/sel_btd6/",
+"thumb": ""
+},
+{
+"id": "sel_pokemon",
+"name": "Pokemon",
+"path": "h/sel_pokemon.html",
+"base": "a/sel_pokemon/",
+"thumb": ""
+},
+{
+"id": "sel_webretro",
+"name": "Webretro",
+"path": "h/sel_webretro.html",
+"base": "a/sel_webretro/",
+"thumb": ""
+},
+{
+"id": "sel_fnaf4",
+"name": "Fnaf4",
+"path": "h/sel_fnaf4.html",
+"base": "a/sel_fnaf4/",
+"thumb": ""
+},
+{
+"id": "sel_osumania",
+"name": "Osumania",
+"path": "h/sel_osumania.html",
+"base": "a/sel_osumania/",
+"thumb": ""
+},
+{
+"id": "sel_emulatorjs",
+"name": "Emulatorjs",
+"path": "h/sel_emulatorjs.html",
+"base": "a/sel_emulatorjs/",
+"thumb": "c/sel_emulatorjs.png"
+},
+{
+"id": "sel_championisland",
+"name": "Championisland",
+"path": "h/sel_championisland.html",
+"base": "a/sel_championisland/",
+"thumb": "c/sel_championisland.png"
+},
+{
+"id": "sel_turbowarp",
+"name": "Turbowarp",
+"path": "h/sel_turbowarp.html",
+"base": "a/sel_turbowarp/",
+"thumb": "c/sel_turbowarp.png"
+},
+{
+"id": "sel_templerun2",
+"name": "Templerun2",
+"path": "h/sel_templerun2.html",
+"base": "a/sel_templerun2/",
+"thumb": ""
+},
+{
+"id": "sel_cluster_rush",
+"name": "Cluster Rush",
+"path": "h/sel_cluster_rush.html",
+"base": "a/sel_cluster_rush/",
+"thumb": "c/sel_cluster_rush.jpg"
+},
+{
+"id": "sel_vex7",
+"name": "Vex7",
+"path": "h/sel_vex7.html",
+"base": "a/sel_vex7/",
+"thumb": ""
+},
+{
+"id": "sel_thirtydollarwebsite",
+"name": "Thirtydollarwebsite",
+"path": "h/sel_thirtydollarwebsite.html",
+"base": "a/sel_thirtydollarwebsite/",
+"thumb": ""
+},
+{
+"id": "sel_online_mc",
+"name": "Online Mc",
+"path": "h/sel_online_mc.html",
+"base": "a/sel_online_mc/",
+"thumb": "c/sel_online_mc.png"
+},
+{
+"id": "sel_ducklife3",
+"name": "Ducklife3",
+"path": "h/sel_ducklife3.html",
+"base": "a/sel_ducklife3/",
+"thumb": ""
+},
+{
+"id": "sel_rooftopsnipers2",
+"name": "Rooftopsnipers2",
+"path": "h/sel_rooftopsnipers2.html",
+"base": "a/sel_rooftopsnipers2/",
+"thumb": "c/sel_rooftopsnipers2.png"
+},
+{
+"id": "sel_ayun",
+"name": "Ayun",
+"path": "h/sel_ayun.html",
+"base": "a/sel_ayun/",
+"thumb": ""
+},
+{
+"id": "duck_crazy_cars",
+"name": "Crazy Cars",
+"path": "h/duck_crazy_cars.html",
+"base": "a/duck_crazy_cars/",
+"thumb": ""
+},
+{
+"id": "sel_vex6",
+"name": "Vex6",
+"path": "h/sel_vex6.html",
+"base": "a/sel_vex6/",
+"thumb": "c/sel_vex6.png"
+},
+{
+"id": "sel_gdlite",
+"name": "Gdlite",
+"path": "h/sel_gdlite.html",
+"base": "a/sel_gdlite/",
+"thumb": ""
+},
+{
+"id": "duck_simply_up",
+"name": "Simply Up",
+"path": "h/duck_simply_up.html",
+"base": "a/duck_simply_up/",
+"thumb": ""
+},
+{
+"id": "sel_clickerheroes",
+"name": "Clickerheroes",
+"path": "h/sel_clickerheroes.html",
+"base": "a/sel_clickerheroes/",
+"thumb": ""
+},
+{
+"id": "sel_superhot",
+"name": "Superhot",
+"path": "h/sel_superhot.html",
+"base": "a/sel_superhot/",
+"thumb": "c/sel_superhot.png"
+},
+{
+"id": "sel_skibiditoilet",
+"name": "Skibiditoilet",
+"path": "h/sel_skibiditoilet.html",
+"base": "a/sel_skibiditoilet/",
+"thumb": "c/sel_skibiditoilet.png"
+},
+{
+"id": "sel_jetpackjoyride",
+"name": "Jetpackjoyride",
+"path": "h/sel_jetpackjoyride.html",
+"base": "a/sel_jetpackjoyride/",
+"thumb": ""
+},
+{
+"id": "sel_hexgl",
+"name": "Hexgl",
+"path": "h/sel_hexgl.html",
+"base": "a/sel_hexgl/",
+"thumb": ""
+},
+{
+"id": "sel_bitlife",
+"name": "Bitlife",
+"path": "h/sel_bitlife.html",
+"base": "a/sel_bitlife/",
+"thumb": "c/sel_bitlife.png"
+},
+{
+"id": "sel_pi",
+"name": "Pi",
+"path": "h/sel_pi.html",
+"base": "a/sel_pi/",
+"thumb": ""
+},
+{
+"id": "sel_pre",
+"name": "Pre",
+"path": "h/sel_pre.html",
+"base": "a/sel_pre/",
+"thumb": ""
+},
+{
+"id": "duck_squid_game_2_mini_games",
+"name": "Squid Game 2 Mini Games",
+"path": "h/duck_squid_game_2_mini_games.html",
+"base": "a/duck_squid_game_2_mini_games/",
+"thumb": "c/duck_squid_game_2_mini_games.png"
+},
+{
+"id": "duck_steal_a_brainrot",
+"name": "Steal A Brainrot",
+"path": "h/duck_steal_a_brainrot.html",
+"base": "a/duck_steal_a_brainrot/",
+"thumb": ""
+},
+{
+"id": "duck_escape_car",
+"name": "Escape Car",
+"path": "h/duck_escape_car.html",
+"base": "a/duck_escape_car/",
+"thumb": ""
+},
+{
+"id": "sel_adofai",
+"name": "Adofai",
+"path": "h/sel_adofai.html",
+"base": "a/sel_adofai/",
+"thumb": "c/sel_adofai.png"
+},
+{
+"id": "duck_99_nights_in_the_forest",
+"name": "99 Nights In The Forest",
+"path": "h/duck_99_nights_in_the_forest.html",
+"base": "a/duck_99_nights_in_the_forest/",
+"thumb": ""
+},
+{
+"id": "sel_ngon",
+"name": "Ngon",
+"path": "h/sel_ngon.html",
+"base": "a/sel_ngon/",
+"thumb": ""
+},
+{
+"id": "sel_sandtrix",
+"name": "Sandtrix",
+"path": "h/sel_sandtrix.html",
+"base": "a/sel_sandtrix/",
+"thumb": ""
+},
+{
+"id": "sel_fruitninja",
+"name": "Fruitninja",
+"path": "h/sel_fruitninja.html",
+"base": "a/sel_fruitninja/",
+"thumb": ""
+},
+{
+"id": "duck_thorns_and_ballons",
+"name": "Thorns And Ballons",
+"path": "h/duck_thorns_and_ballons.html",
+"base": "a/duck_thorns_and_ballons/",
+"thumb": "c/duck_thorns_and_ballons.png"
+},
+{
+"id": "sel_funnyshooter",
+"name": "Funnyshooter",
+"path": "h/sel_funnyshooter.html",
+"base": "a/sel_funnyshooter/",
+"thumb": ""
+},
+{
+"id": "sel_skibiditoiletattack",
+"name": "Skibiditoiletattack",
+"path": "h/sel_skibiditoiletattack.html",
+"base": "a/sel_skibiditoiletattack/",
+"thumb": "c/sel_skibiditoiletattack.png"
+},
+{
+"id": "duck_plants_vs_brainrots",
+"name": "Plants Vs Brainrots",
+"path": "h/duck_plants_vs_brainrots.html",
+"base": "a/duck_plants_vs_brainrots/",
+"thumb": "c/duck_plants_vs_brainrots.png"
+},
+{
+"id": "sel_riddleschooltransfer2",
+"name": "Riddleschooltransfer2",
+"path": "h/sel_riddleschooltransfer2.html",
+"base": "a/sel_riddleschooltransfer2/",
+"thumb": ""
+},
+{
+"id": "duck_obby_but_youre_on_a_bike",
+"name": "Obby But Youre On A Bike",
+"path": "h/duck_obby_but_youre_on_a_bike.html",
+"base": "a/duck_obby_but_youre_on_a_bike/",
+"thumb": ""
+},
+{
+"id": "duck_rally_point",
+"name": "Rally Point",
+"path": "h/duck_rally_point.html",
+"base": "a/duck_rally_point/",
+"thumb": ""
+},
+{
+"id": "sel_boxingphysics2",
+"name": "Boxingphysics2",
+"path": "h/sel_boxingphysics2.html",
+"base": "a/sel_boxingphysics2/",
+"thumb": "c/sel_boxingphysics2.png"
+},
+{
+"id": "duck_car_football",
+"name": "Car Football",
+"path": "h/duck_car_football.html",
+"base": "a/duck_car_football/",
+"thumb": ""
+},
+{
+"id": "sel_lasthorizon",
+"name": "Lasthorizon",
+"path": "h/sel_lasthorizon.html",
+"base": "a/sel_lasthorizon/",
+"thumb": ""
+},
+{
+"id": "sel_cmm_client",
+"name": "Cmm Client",
+"path": "h/sel_cmm_client.html",
+"base": "a/sel_cmm_client/",
+"thumb": ""
+},
+{
+"id": "sel_supersmashbros",
+"name": "Supersmashbros",
+"path": "h/sel_supersmashbros.html",
+"base": "a/sel_supersmashbros/",
+"thumb": ""
+},
+{
+"id": "duck_money_movers",
+"name": "Money Movers",
+"path": "h/duck_money_movers.html",
+"base": "a/duck_money_movers/",
+"thumb": ""
+},
+{
+"id": "sel_offline_mc",
+"name": "Offline Mc",
+"path": "h/sel_offline_mc.html",
+"base": "a/sel_offline_mc/",
+"thumb": "c/sel_offline_mc.png"
+},
+{
+"id": "sel_ducklife4",
+"name": "Ducklife4",
+"path": "h/sel_ducklife4.html",
+"base": "a/sel_ducklife4/",
+"thumb": "c/sel_ducklife4.png"
+},
+{
+"id": "sel_ducklife2",
+"name": "Ducklife2",
+"path": "h/sel_ducklife2.html",
+"base": "a/sel_ducklife2/",
+"thumb": ""
+},
+{
+"id": "sel_riddleschooltransfer",
+"name": "Riddleschooltransfer",
+"path": "h/sel_riddleschooltransfer.html",
+"base": "a/sel_riddleschooltransfer/",
+"thumb": ""
+},
+{
+"id": "sel_win11",
+"name": "Win11",
+"path": "h/sel_win11.html",
+"base": "a/sel_win11/",
+"thumb": ""
+},
+{
+"id": "sel_holeio",
+"name": "Holeio",
+"path": "h/sel_holeio.html",
+"base": "a/sel_holeio/",
+"thumb": ""
+},
+{
+"id": "sel_bloodtournament",
+"name": "Bloodtournament",
+"path": "h/sel_bloodtournament.html",
+"base": "a/sel_bloodtournament/",
+"thumb": ""
+},
+{
+"id": "duck_president_simulator",
+"name": "President Simulator",
+"path": "h/duck_president_simulator.html",
+"base": "a/duck_president_simulator/",
+"thumb": "c/duck_president_simulator.png"
+},
+{
+"id": "sel_lazyjump3d",
+"name": "Lazyjump3D",
+"path": "h/sel_lazyjump3d.html",
+"base": "a/sel_lazyjump3d/",
+"thumb": "c/sel_lazyjump3d.png"
+},
+{
+"id": "duck_escape_tsunami_for_brainrots",
+"name": "Escape Tsunami For Brainrots",
+"path": "h/duck_escape_tsunami_for_brainrots.html",
+"base": "a/duck_escape_tsunami_for_brainrots/",
+"thumb": "c/duck_escape_tsunami_for_brainrots.png"
+},
+{
+"id": "sel_riddleschool5",
+"name": "Riddleschool5",
+"path": "h/sel_riddleschool5.html",
+"base": "a/sel_riddleschool5/",
+"thumb": ""
+},
+{
+"id": "duck_steal_a_brainrot_2",
+"name": "Steal A Brainrot 2",
+"path": "h/duck_steal_a_brainrot_2.html",
+"base": "a/duck_steal_a_brainrot_2/",
+"thumb": ""
+},
+{
+"id": "duck_head_soccer",
+"name": "Head Soccer",
+"path": "h/duck_head_soccer.html",
+"base": "a/duck_head_soccer/",
+"thumb": ""
+},
+{
+"id": "sel_getawayshooter",
+"name": "Getawayshooter",
+"path": "h/sel_getawayshooter.html",
+"base": "a/sel_getawayshooter/",
+"thumb": ""
+},
+{
+"id": "duck_pocket_champions",
+"name": "Pocket Champions",
+"path": "h/duck_pocket_champions.html",
+"base": "a/duck_pocket_champions/",
+"thumb": ""
+},
+{
+"id": "sel_snowrider3d",
+"name": "Snowrider3D",
+"path": "h/sel_snowrider3d.html",
+"base": "a/sel_snowrider3d/",
+"thumb": ""
+},
+{
+"id": "duck_neighborhood_defense",
+"name": "Neighborhood Defense",
+"path": "h/duck_neighborhood_defense.html",
+"base": "a/duck_neighborhood_defense/",
+"thumb": ""
+},
+{
+"id": "duck_doom_1",
+"name": "Doom 1",
+"path": "h/duck_doom_1.html",
+"base": "a/duck_doom_1/",
+"thumb": ""
+},
+{
+"id": "sel_cuttherope_holiday",
+"name": "Cuttherope Holiday",
+"path": "h/sel_cuttherope_holiday.html",
+"base": "a/sel_cuttherope_holiday/",
+"thumb": ""
+},
+{
+"id": "duck_stickman_parkour",
+"name": "Stickman Parkour",
+"path": "h/duck_stickman_parkour.html",
+"base": "a/duck_stickman_parkour/",
+"thumb": ""
+},
+{
+"id": "sel_mcclassic",
+"name": "Mcclassic",
+"path": "h/sel_mcclassic.html",
+"base": "a/sel_mcclassic/",
+"thumb": ""
+},
+{
+"id": "duck_duck_life",
+"name": "Duck Life",
+"path": "h/duck_duck_life.html",
+"base": "a/duck_duck_life/",
+"thumb": ""
+},
+{
+"id": "duck_theimpossiblequiz2",
+"name": "Theimpossiblequiz2",
+"path": "h/duck_theimpossiblequiz2.html",
+"base": "a/duck_theimpossiblequiz2/",
+"thumb": ""
+},
+{
+"id": "sel_dogeminer",
+"name": "Dogeminer",
+"path": "h/sel_dogeminer.html",
+"base": "a/sel_dogeminer/",
+"thumb": ""
+},
+{
+"id": "duck_minecraft",
+"name": "Minecraft",
+"path": "h/duck_minecraft.html",
+"base": "a/duck_minecraft/",
+"thumb": ""
+},
+{
+"id": "sel_mario",
+"name": "Mario",
+"path": "h/sel_mario.html",
+"base": "a/sel_mario/",
+"thumb": "c/sel_mario.png"
+},
+{
+"id": "sel_fancypantsadventures2",
+"name": "Fancypantsadventures2",
+"path": "h/sel_fancypantsadventures2.html",
+"base": "a/sel_fancypantsadventures2/",
+"thumb": ""
+},
+{
+"id": "duck_brookhaven",
+"name": "Brookhaven",
+"path": "h/duck_brookhaven.html",
+"base": "a/duck_brookhaven/",
+"thumb": "c/duck_brookhaven.png"
+},
+{
+"id": "sel_tabs",
+"name": "Tabs",
+"path": "h/sel_tabs.html",
+"base": "a/sel_tabs/",
+"thumb": ""
+},
+{
+"id": "duck_battle_simulator",
+"name": "Battle Simulator",
+"path": "h/duck_battle_simulator.html",
+"base": "a/duck_battle_simulator/",
+"thumb": ""
+},
+{
+"id": "sel_cell_machine",
+"name": "Cell Machine",
+"path": "h/sel_cell_machine.html",
+"base": "a/sel_cell_machine/",
+"thumb": ""
+},
+{
+"id": "sel_fireboywatergirl",
+"name": "Fireboywatergirl",
+"path": "h/sel_fireboywatergirl.html",
+"base": "a/sel_fireboywatergirl/",
+"thumb": "c/sel_fireboywatergirl.png"
+},
+{
+"id": "sel_redball3",
+"name": "Redball3",
+"path": "h/sel_redball3.html",
+"base": "a/sel_redball3/",
+"thumb": ""
+},
+{
+"id": "duck_freewayfury2",
+"name": "Freewayfury2",
+"path": "h/duck_freewayfury2.html",
+"base": "a/duck_freewayfury2/",
+"thumb": ""
+},
+{
+"id": "sel_amazing_rope_police",
+"name": "Amazing Rope Police",
+"path": "h/sel_amazing_rope_police.html",
+"base": "a/sel_amazing_rope_police/",
+"thumb": ""
+},
+{
+"id": "sel_thefinalearth2",
+"name": "Thefinalearth2",
+"path": "h/sel_thefinalearth2.html",
+"base": "a/sel_thefinalearth2/",
+"thumb": ""
+},
+{
+"id": "duck_race_survival_arena_king",
+"name": "Race Survival Arena King",
+"path": "h/duck_race_survival_arena_king.html",
+"base": "a/duck_race_survival_arena_king/",
+"thumb": "c/duck_race_survival_arena_king.png"
+},
+{
+"id": "duck_fpaworld2",
+"name": "Fpaworld2",
+"path": "h/duck_fpaworld2.html",
+"base": "a/duck_fpaworld2/",
+"thumb": ""
+},
+{
+"id": "duck_kawai_run_2_offline",
+"name": "Kawai Run 2 Offline",
+"path": "h/duck_kawai_run_2_offline.html",
+"base": "a/duck_kawai_run_2_offline/",
+"thumb": ""
+},
+{
+"id": "duck_escapetheprison",
+"name": "Escapetheprison",
+"path": "h/duck_escapetheprison.html",
+"base": "a/duck_escapetheprison/",
+"thumb": ""
+},
+{
+"id": "duck_crazy_karts",
+"name": "Crazy Karts",
+"path": "h/duck_crazy_karts.html",
+"base": "a/duck_crazy_karts/",
+"thumb": ""
+},
+{
+"id": "duck_moto_x3m_spooky_land",
+"name": "Moto X3M Spooky Land",
+"path": "h/duck_moto_x3m_spooky_land.html",
+"base": "a/duck_moto_x3m_spooky_land/",
+"thumb": ""
+},
+{
+"id": "duck_moto_x3m_3",
+"name": "Moto X3M 3",
+"path": "h/duck_moto_x3m_3.html",
+"base": "a/duck_moto_x3m_3/",
+"thumb": ""
+},
+{
+"id": "sel_motox3m_spooky",
+"name": "Motox3M Spooky",
+"path": "h/sel_motox3m_spooky.html",
+"base": "a/sel_motox3m_spooky/",
+"thumb": "c/sel_motox3m_spooky.png"
+},
+{
+"id": "sel_factoryballsforever",
+"name": "Factoryballsforever",
+"path": "h/sel_factoryballsforever.html",
+"base": "a/sel_factoryballsforever/",
+"thumb": ""
+},
+{
+"id": "sel_burritobison",
+"name": "Burritobison",
+"path": "h/sel_burritobison.html",
+"base": "a/sel_burritobison/",
+"thumb": ""
+},
+{
+"id": "duck_spiral_roll",
+"name": "Spiral Roll",
+"path": "h/duck_spiral_roll.html",
+"base": "a/duck_spiral_roll/",
+"thumb": ""
+},
+{
+"id": "sel_fireboywatergirl2",
+"name": "Fireboywatergirl2",
+"path": "h/sel_fireboywatergirl2.html",
+"base": "a/sel_fireboywatergirl2/",
+"thumb": ""
+},
+{
+"id": "sel_redball4",
+"name": "Redball4",
+"path": "h/sel_redball4.html",
+"base": "a/sel_redball4/",
+"thumb": ""
+},
+{
+"id": "duck_time_shooter_swat",
+"name": "Time Shooter Swat",
+"path": "h/duck_time_shooter_swat.html",
+"base": "a/duck_time_shooter_swat/",
+"thumb": "c/duck_time_shooter_swat.png"
+},
+{
+"id": "sel_fireboywatergirl3",
+"name": "Fireboywatergirl3",
+"path": "h/sel_fireboywatergirl3.html",
+"base": "a/sel_fireboywatergirl3/",
+"thumb": "c/sel_fireboywatergirl3.png"
+},
+{
+"id": "sel_gunmayhem2",
+"name": "Gunmayhem2",
+"path": "h/sel_gunmayhem2.html",
+"base": "a/sel_gunmayhem2/",
+"thumb": "c/sel_gunmayhem2.png"
+},
+{
+"id": "sel_motox3m_pool",
+"name": "Motox3M Pool",
+"path": "h/sel_motox3m_pool.html",
+"base": "a/sel_motox3m_pool/",
+"thumb": ""
+},
+{
+"id": "sel_fireboywatergirl4",
+"name": "Fireboywatergirl4",
+"path": "h/sel_fireboywatergirl4.html",
+"base": "a/sel_fireboywatergirl4/",
+"thumb": ""
+},
+{
+"id": "sel_supersmashflash",
+"name": "Supersmashflash",
+"path": "h/sel_supersmashflash.html",
+"base": "a/sel_supersmashflash/",
+"thumb": ""
+},
+{
+"id": "sel_motox3m_winter",
+"name": "Motox3M Winter",
+"path": "h/sel_motox3m_winter.html",
+"base": "a/sel_motox3m_winter/",
+"thumb": ""
+},
+{
+"id": "sel_guiltygear",
+"name": "Guiltygear",
+"path": "h/sel_guiltygear.html",
+"base": "a/sel_guiltygear/",
+"thumb": ""
+},
+{
+"id": "sel_metroidzeromission",
+"name": "Metroidzeromission",
+"path": "h/sel_metroidzeromission.html",
+"base": "a/sel_metroidzeromission/",
+"thumb": ""
+},
+{
+"id": "sel_basketball_stars",
+"name": "Basketball Stars",
+"path": "h/sel_basketball_stars.html",
+"base": "a/sel_basketball_stars/",
+"thumb": "c/sel_basketball_stars.png"
+},
+{
+"id": "sel_motox3m",
+"name": "Motox3M",
+"path": "h/sel_motox3m.html",
+"base": "a/sel_motox3m/",
+"thumb": ""
+},
+{
+"id": "duck_truck_loader_4",
+"name": "Truck Loader 4",
+"path": "h/duck_truck_loader_4.html",
+"base": "a/duck_truck_loader_4/",
+"thumb": ""
+},
+{
+"id": "duck_geometry_freezenova",
+"name": "Geometry Freezenova",
+"path": "h/duck_geometry_freezenova.html",
+"base": "a/duck_geometry_freezenova/",
+"thumb": ""
+},
+{
+"id": "sel_geometryrash",
+"name": "Geometryrash",
+"path": "h/sel_geometryrash.html",
+"base": "a/sel_geometryrash/",
+"thumb": ""
+},
+{
+"id": "sel_funnymadracing",
+"name": "Funnymadracing",
+"path": "h/sel_funnymadracing.html",
+"base": "a/sel_funnymadracing/",
+"thumb": ""
+},
+{
+"id": "duck_pizza_party",
+"name": "Pizza Party",
+"path": "h/duck_pizza_party.html",
+"base": "a/duck_pizza_party/",
+"thumb": ""
+},
+{
+"id": "sel_ducklife6",
+"name": "Ducklife6",
+"path": "h/sel_ducklife6.html",
+"base": "a/sel_ducklife6/",
+"thumb": ""
+},
+{
+"id": "sel_riddleschool3",
+"name": "Riddleschool3",
+"path": "h/sel_riddleschool3.html",
+"base": "a/sel_riddleschool3/",
+"thumb": ""
+},
+{
+"id": "sel_deal",
+"name": "Deal",
+"path": "h/sel_deal.html",
+"base": "a/sel_deal/",
+"thumb": ""
+},
+{
+"id": "duck_awesometanks2",
+"name": "Awesometanks2",
+"path": "h/duck_awesometanks2.html",
+"base": "a/duck_awesometanks2/",
+"thumb": ""
+},
+{
+"id": "duck_stickman_peacekeeper",
+"name": "Stickman Peacekeeper",
+"path": "h/duck_stickman_peacekeeper.html",
+"base": "a/duck_stickman_peacekeeper/",
+"thumb": ""
+},
+{
+"id": "sel_gunmayhemredux",
+"name": "Gunmayhemredux",
+"path": "h/sel_gunmayhemredux.html",
+"base": "a/sel_gunmayhemredux/",
+"thumb": "c/sel_gunmayhemredux.png"
+},
+{
+"id": "duck_football_legends",
+"name": "Football Legends",
+"path": "h/duck_football_legends.html",
+"base": "a/duck_football_legends/",
+"thumb": ""
+},
+{
+"id": "duck_portal_tfv",
+"name": "Portal Tfv",
+"path": "h/duck_portal_tfv.html",
+"base": "a/duck_portal_tfv/",
+"thumb": ""
+},
+{
+"id": "duck_cheese_chompers_3d",
+"name": "Cheese Chompers 3D",
+"path": "h/duck_cheese_chompers_3d.html",
+"base": "a/duck_cheese_chompers_3d/",
+"thumb": ""
+},
+{
+"id": "sel_chibiknight",
+"name": "Chibiknight",
+"path": "h/sel_chibiknight.html",
+"base": "a/sel_chibiknight/",
+"thumb": "c/sel_chibiknight.png"
+},
+{
+"id": "sel_yohoho",
+"name": "Yohoho",
+"path": "h/sel_yohoho.html",
+"base": "a/sel_yohoho/",
+"thumb": ""
+},
+{
+"id": "duck_cs_online",
+"name": "Cs Online",
+"path": "h/duck_cs_online.html",
+"base": "a/duck_cs_online/",
+"thumb": ""
+},
+{
+"id": "duck_pvz_hybrid_story_mod",
+"name": "Pvz Hybrid Story Mod",
+"path": "h/duck_pvz_hybrid_story_mod.html",
+"base": "a/duck_pvz_hybrid_story_mod/",
+"thumb": ""
+},
+{
+"id": "sel_wbwwb",
+"name": "Wbwwb",
+"path": "h/sel_wbwwb.html",
+"base": "a/sel_wbwwb/",
+"thumb": ""
+},
+{
+"id": "duck_pixel_path",
+"name": "Pixel Path",
+"path": "h/duck_pixel_path.html",
+"base": "a/duck_pixel_path/",
+"thumb": ""
+},
+{
+"id": "sel_bubbleshooter",
+"name": "Bubbleshooter",
+"path": "h/sel_bubbleshooter.html",
+"base": "a/sel_bubbleshooter/",
+"thumb": ""
+},
+{
+"id": "duck_mini_shooters",
+"name": "Mini Shooters",
+"path": "h/duck_mini_shooters.html",
+"base": "a/duck_mini_shooters/",
+"thumb": ""
+},
+{
+"id": "sel_drifthunters",
+"name": "Drifthunters",
+"path": "h/sel_drifthunters.html",
+"base": "a/sel_drifthunters/",
+"thumb": "c/sel_drifthunters.png"
+},
+{
+"id": "sel_tube_jumpers",
+"name": "Tube Jumpers",
+"path": "h/sel_tube_jumpers.html",
+"base": "a/sel_tube_jumpers/",
+"thumb": ""
+},
+{
+"id": "sel_dragonballdevolution",
+"name": "Dragonballdevolution",
+"path": "h/sel_dragonballdevolution.html",
+"base": "a/sel_dragonballdevolution/",
+"thumb": ""
+},
+{
+"id": "sel_redball4vol2",
+"name": "Redball4Vol2",
+"path": "h/sel_redball4vol2.html",
+"base": "a/sel_redball4vol2/",
+"thumb": ""
+},
+{
+"id": "sel_riddleschool4",
+"name": "Riddleschool4",
+"path": "h/sel_riddleschool4.html",
+"base": "a/sel_riddleschool4/",
+"thumb": ""
+},
+{
+"id": "duck_soviet_sniper",
+"name": "Soviet Sniper",
+"path": "h/duck_soviet_sniper.html",
+"base": "a/duck_soviet_sniper/",
+"thumb": ""
+},
+{
+"id": "sel_tu46",
+"name": "Tu46",
+"path": "h/sel_tu46.html",
+"base": "a/sel_tu46/",
+"thumb": ""
+},
+{
+"id": "duck_rodeo_stampede",
+"name": "Rodeo Stampede",
+"path": "h/duck_rodeo_stampede.html",
+"base": "a/duck_rodeo_stampede/",
+"thumb": ""
+},
+{
+"id": "sel_gunmayhem",
+"name": "Gunmayhem",
+"path": "h/sel_gunmayhem.html",
+"base": "a/sel_gunmayhem/",
+"thumb": "c/sel_gunmayhem.png"
+},
+{
+"id": "sel_awesometanks",
+"name": "Awesometanks",
+"path": "h/sel_awesometanks.html",
+"base": "a/sel_awesometanks/",
+"thumb": ""
+},
+{
+"id": "sel_zombocalypse",
+"name": "Zombocalypse",
+"path": "h/sel_zombocalypse.html",
+"base": "a/sel_zombocalypse/",
+"thumb": ""
+},
+{
+"id": "sel_madalincars",
+"name": "Madalincars",
+"path": "h/sel_madalincars.html",
+"base": "a/sel_madalincars/",
+"thumb": "c/sel_madalincars.png"
+},
+{
+"id": "sel_skills",
+"name": "Skills",
+"path": "h/sel_skills.html",
+"base": "a/sel_skills/",
+"thumb": ""
+},
+{
+"id": "duck_endless_lake",
+"name": "Endless Lake",
+"path": "h/duck_endless_lake.html",
+"base": "a/duck_endless_lake/",
+"thumb": ""
+},
+{
+"id": "duck_jewelanche",
+"name": "Jewelanche",
+"path": "h/duck_jewelanche.html",
+"base": "a/duck_jewelanche/",
+"thumb": ""
+},
+{
+"id": "duck_masked_special_forces",
+"name": "Masked Special Forces",
+"path": "h/duck_masked_special_forces.html",
+"base": "a/duck_masked_special_forces/",
+"thumb": ""
+},
+{
+"id": "duck_cod_zombies_portable",
+"name": "Cod Zombies Portable",
+"path": "h/duck_cod_zombies_portable.html",
+"base": "a/duck_cod_zombies_portable/",
+"thumb": ""
+},
+{
+"id": "sel_vex4",
+"name": "Vex4",
+"path": "h/sel_vex4.html",
+"base": "a/sel_vex4/",
+"thumb": ""
+},
+{
+"id": "sel_lowsadventures2",
+"name": "Lowsadventures2",
+"path": "h/sel_lowsadventures2.html",
+"base": "a/sel_lowsadventures2/",
+"thumb": "c/sel_lowsadventures2.png"
+},
+{
+"id": "duck_madalin_stunt_cars_2",
+"name": "Madalin Stunt Cars 2",
+"path": "h/duck_madalin_stunt_cars_2.html",
+"base": "a/duck_madalin_stunt_cars_2/",
+"thumb": ""
+},
+{
+"id": "sel_vex5",
+"name": "Vex5",
+"path": "h/sel_vex5.html",
+"base": "a/sel_vex5/",
+"thumb": "c/sel_vex5.png"
+},
+{
+"id": "duck_tanuki_sunset",
+"name": "Tanuki Sunset",
+"path": "h/duck_tanuki_sunset.html",
+"base": "a/duck_tanuki_sunset/",
+"thumb": ""
+},
+{
+"id": "sel_supermeatboy",
+"name": "Supermeatboy",
+"path": "h/sel_supermeatboy.html",
+"base": "a/sel_supermeatboy/",
+"thumb": "c/sel_supermeatboy.png"
+},
+{
+"id": "duck_meat",
+"name": "Meat",
+"path": "h/duck_meat.html",
+"base": "a/duck_meat/",
+"thumb": ""
+},
+{
+"id": "sel_ducklife5",
+"name": "Ducklife5",
+"path": "h/sel_ducklife5.html",
+"base": "a/sel_ducklife5/",
+"thumb": ""
+},
+{
+"id": "duck_fighter_aircraft_pilot",
+"name": "Fighter Aircraft Pilot",
+"path": "h/duck_fighter_aircraft_pilot.html",
+"base": "a/duck_fighter_aircraft_pilot/",
+"thumb": ""
+},
+{
+"id": "duck_turnturn",
+"name": "Turnturn",
+"path": "h/duck_turnturn.html",
+"base": "a/duck_turnturn/",
+"thumb": ""
+},
+{
+"id": "sel_redball4vol3",
+"name": "Redball4Vol3",
+"path": "h/sel_redball4vol3.html",
+"base": "a/sel_redball4vol3/",
+"thumb": ""
+},
+{
+"id": "sel_adarkroom",
+"name": "Adarkroom",
+"path": "h/sel_adarkroom.html",
+"base": "a/sel_adarkroom/",
+"thumb": ""
+},
+{
+"id": "sel_russiancardriver",
+"name": "Russiancardriver",
+"path": "h/sel_russiancardriver.html",
+"base": "a/sel_russiancardriver/",
+"thumb": ""
+},
+{
+"id": "duck_papastacomia",
+"name": "Papastacomia",
+"path": "h/duck_papastacomia.html",
+"base": "a/duck_papastacomia/",
+"thumb": ""
+},
+{
+"id": "sel_nutsim",
+"name": "Nutsim",
+"path": "h/sel_nutsim.html",
+"base": "a/sel_nutsim/",
+"thumb": ""
+},
+{
+"id": "sel_learntofly2",
+"name": "Learntofly2",
+"path": "h/sel_learntofly2.html",
+"base": "a/sel_learntofly2/",
+"thumb": ""
+},
+{
+"id": "duck_idle_dev_startup",
+"name": "Idle Dev Startup",
+"path": "h/duck_idle_dev_startup.html",
+"base": "a/duck_idle_dev_startup/",
+"thumb": ""
+},
+{
+"id": "sel_papasfreezeria",
+"name": "Papasfreezeria",
+"path": "h/sel_papasfreezeria.html",
+"base": "a/sel_papasfreezeria/",
+"thumb": ""
+},
+{
+"id": "duck_super_mario_defense",
+"name": "Super Mario Defense",
+"path": "h/duck_super_mario_defense.html",
+"base": "a/duck_super_mario_defense/",
+"thumb": ""
+},
+{
+"id": "duck_gun_spin",
+"name": "Gun Spin",
+"path": "h/duck_gun_spin.html",
+"base": "a/duck_gun_spin/",
+"thumb": ""
+},
+{
+"id": "sel_theimpossiblequiz",
+"name": "Theimpossiblequiz",
+"path": "h/sel_theimpossiblequiz.html",
+"base": "a/sel_theimpossiblequiz/",
+"thumb": ""
+},
+{
+"id": "sel_halloween2016",
+"name": "Halloween2016",
+"path": "h/sel_halloween2016.html",
+"base": "a/sel_halloween2016/",
+"thumb": "c/sel_halloween2016.png"
+},
+{
+"id": "sel_wordlebot",
+"name": "Wordlebot",
+"path": "h/sel_wordlebot.html",
+"base": "a/sel_wordlebot/",
+"thumb": "c/sel_wordlebot.png"
+},
+{
+"id": "duck_incredibox",
+"name": "Incredibox",
+"path": "h/duck_incredibox.html",
+"base": "a/duck_incredibox/",
+"thumb": ""
+},
+{
+"id": "sel_boxingrandom",
+"name": "Boxingrandom",
+"path": "h/sel_boxingrandom.html",
+"base": "a/sel_boxingrandom/",
+"thumb": ""
+},
+{
+"id": "sel_2drocketleague",
+"name": "2Drocketleague",
+"path": "h/sel_2drocketleague.html",
+"base": "a/sel_2drocketleague/",
+"thumb": ""
+},
+{
+"id": "sel_flappyplane",
+"name": "Flappyplane",
+"path": "h/sel_flappyplane.html",
+"base": "a/sel_flappyplane/",
+"thumb": ""
+},
+{
+"id": "sel_tinyfishing",
+"name": "Tinyfishing",
+"path": "h/sel_tinyfishing.html",
+"base": "a/sel_tinyfishing/",
+"thumb": "c/sel_tinyfishing.png"
+},
+{
+"id": "sel_vex2",
+"name": "Vex2",
+"path": "h/sel_vex2.html",
+"base": "a/sel_vex2/",
+"thumb": "c/sel_vex2.png"
+},
+{
+"id": "duck_slime_rush_td",
+"name": "Slime Rush Td",
+"path": "h/duck_slime_rush_td.html",
+"base": "a/duck_slime_rush_td/",
+"thumb": ""
+},
+{
+"id": "sel_vex",
+"name": "Vex",
+"path": "h/sel_vex.html",
+"base": "a/sel_vex/",
+"thumb": "c/sel_vex.png"
+},
+{
+"id": "duck_raftwars2",
+"name": "Raftwars2",
+"path": "h/duck_raftwars2.html",
+"base": "a/duck_raftwars2/",
+"thumb": ""
+},
+{
+"id": "sel_stickmangolf",
+"name": "Stickmangolf",
+"path": "h/sel_stickmangolf.html",
+"base": "a/sel_stickmangolf/",
+"thumb": ""
+},
+{
+"id": "duck_pottyracers2",
+"name": "Pottyracers2",
+"path": "h/duck_pottyracers2.html",
+"base": "a/duck_pottyracers2/",
+"thumb": ""
+},
+{
+"id": "sel_colorswitch",
+"name": "Colorswitch",
+"path": "h/sel_colorswitch.html",
+"base": "a/sel_colorswitch/",
+"thumb": ""
+},
+{
+"id": "sel_pong",
+"name": "Pong",
+"path": "h/sel_pong.html",
+"base": "a/sel_pong/",
+"thumb": ""
+},
+{
+"id": "duck_blocky_puzzle",
+"name": "Blocky Puzzle",
+"path": "h/duck_blocky_puzzle.html",
+"base": "a/duck_blocky_puzzle/",
+"thumb": ""
+},
+{
+"id": "sel_60sburgerrun",
+"name": "60Sburgerrun",
+"path": "h/sel_60sburgerrun.html",
+"base": "a/sel_60sburgerrun/",
+"thumb": "c/sel_60sburgerrun.png"
+},
+{
+"id": "sel_commodoreclicker",
+"name": "Commodoreclicker",
+"path": "h/sel_commodoreclicker.html",
+"base": "a/sel_commodoreclicker/",
+"thumb": ""
+},
+{
+"id": "sel_monstertracks",
+"name": "Monstertracks",
+"path": "h/sel_monstertracks.html",
+"base": "a/sel_monstertracks/",
+"thumb": ""
+},
+{
+"id": "duck_playground_latest_version",
+"name": "Playground Latest Version",
+"path": "h/duck_playground_latest_version.html",
+"base": "a/duck_playground_latest_version/",
+"thumb": ""
+},
+{
+"id": "duck_super_stickman_golf",
+"name": "Super Stickman Golf",
+"path": "h/duck_super_stickman_golf.html",
+"base": "a/duck_super_stickman_golf/",
+"thumb": ""
+},
+{
+"id": "sel_basketrandom",
+"name": "Basketrandom",
+"path": "h/sel_basketrandom.html",
+"base": "a/sel_basketrandom/",
+"thumb": ""
+},
+{
+"id": "sel_gamemaker",
+"name": "Gamemaker",
+"path": "h/sel_gamemaker.html",
+"base": "a/sel_gamemaker/",
+"thumb": ""
+},
+{
+"id": "duck_fnaf5",
+"name": "Fnaf5",
+"path": "h/duck_fnaf5.html",
+"base": "a/duck_fnaf5/",
+"thumb": ""
+},
+{
+"id": "duck_draw_the_bridge",
+"name": "Draw The Bridge",
+"path": "h/duck_draw_the_bridge.html",
+"base": "a/duck_draw_the_bridge/",
+"thumb": ""
+},
+{
+"id": "sel_gba",
+"name": "Gba",
+"path": "h/sel_gba.html",
+"base": "a/sel_gba/",
+"thumb": "c/sel_gba.png"
+},
+{
+"id": "sel_achieveunlocked2",
+"name": "Achieveunlocked2",
+"path": "h/sel_achieveunlocked2.html",
+"base": "a/sel_achieveunlocked2/",
+"thumb": "c/sel_achieveunlocked2.png"
+},
+{
+"id": "sel_btd4",
+"name": "Btd4",
+"path": "h/sel_btd4.html",
+"base": "a/sel_btd4/",
+"thumb": ""
+},
+{
+"id": "sel_soccerrandom",
+"name": "Soccerrandom",
+"path": "h/sel_soccerrandom.html",
+"base": "a/sel_soccerrandom/",
+"thumb": ""
+},
+{
+"id": "sel_learntoflyidle",
+"name": "Learntoflyidle",
+"path": "h/sel_learntoflyidle.html",
+"base": "a/sel_learntoflyidle/",
+"thumb": "c/sel_learntoflyidle.jpg"
+},
+{
+"id": "sel_papasburgeria",
+"name": "Papasburgeria",
+"path": "h/sel_papasburgeria.html",
+"base": "a/sel_papasburgeria/",
+"thumb": ""
+},
+{
+"id": "duck_burrito_bison_launcha_libre",
+"name": "Burrito Bison Launcha Libre",
+"path": "h/duck_burrito_bison_launcha_libre.html",
+"base": "a/duck_burrito_bison_launcha_libre/",
+"thumb": ""
+},
+{
+"id": "duck_clash_royale",
+"name": "Clash Royale",
+"path": "h/duck_clash_royale.html",
+"base": "a/duck_clash_royale/",
+"thumb": ""
+},
+{
+"id": "duck_swordsandsandals2",
+"name": "Swordsandsandals2",
+"path": "h/duck_swordsandsandals2.html",
+"base": "a/duck_swordsandsandals2/",
+"thumb": ""
+},
+{
+"id": "sel_tu95",
+"name": "Tu95",
+"path": "h/sel_tu95.html",
+"base": "a/sel_tu95/",
+"thumb": ""
+},
+{
+"id": "sel_wordle",
+"name": "Wordle",
+"path": "h/sel_wordle.html",
+"base": "a/sel_wordle/",
+"thumb": "c/sel_wordle.png"
+},
+{
+"id": "sel_papaspizzeria",
+"name": "Papaspizzeria",
+"path": "h/sel_papaspizzeria.html",
+"base": "a/sel_papaspizzeria/",
+"thumb": ""
+},
+{
+"id": "duck_heck_sucker",
+"name": "Heck Sucker",
+"path": "h/duck_heck_sucker.html",
+"base": "a/duck_heck_sucker/",
+"thumb": ""
+},
+{
+"id": "sel_badtimesimulator",
+"name": "Badtimesimulator",
+"path": "h/sel_badtimesimulator.html",
+"base": "a/sel_badtimesimulator/",
+"thumb": ""
+},
+{
+"id": "sel_achieveunlocked",
+"name": "Achieveunlocked",
+"path": "h/sel_achieveunlocked.html",
+"base": "a/sel_achieveunlocked/",
+"thumb": "c/sel_achieveunlocked.png"
+},
+{
+"id": "duck_tinycastle",
+"name": "Tinycastle",
+"path": "h/duck_tinycastle.html",
+"base": "a/duck_tinycastle/",
+"thumb": ""
+},
+{
+"id": "duck_theworldshardestgame2",
+"name": "Theworldshardestgame2",
+"path": "h/duck_theworldshardestgame2.html",
+"base": "a/duck_theworldshardestgame2/",
+"thumb": ""
+},
+{
+"id": "duck_rainbow_friends_return",
+"name": "Rainbow Friends Return",
+"path": "h/duck_rainbow_friends_return.html",
+"base": "a/duck_rainbow_friends_return/",
+"thumb": ""
+},
+{
+"id": "duck_bloxorz",
+"name": "Bloxorz",
+"path": "h/duck_bloxorz.html",
+"base": "a/duck_bloxorz/",
+"thumb": ""
+},
+{
+"id": "sel_helixjump",
+"name": "Helixjump",
+"path": "h/sel_helixjump.html",
+"base": "a/sel_helixjump/",
+"thumb": ""
+},
+{
+"id": "sel_golddiggerfrvr",
+"name": "Golddiggerfrvr",
+"path": "h/sel_golddiggerfrvr.html",
+"base": "a/sel_golddiggerfrvr/",
+"thumb": ""
+},
+{
+"id": "duck_alien_hominid",
+"name": "Alien Hominid",
+"path": "h/duck_alien_hominid.html",
+"base": "a/duck_alien_hominid/",
+"thumb": ""
+},
+{
+"id": "duck_bob_the_robber_4",
+"name": "Bob The Robber 4",
+"path": "h/duck_bob_the_robber_4.html",
+"base": "a/duck_bob_the_robber_4/",
+"thumb": ""
+},
+{
+"id": "duck_archer_master_3d_castle_defender",
+"name": "Archer Master 3D Castle Defender",
+"path": "h/duck_archer_master_3d_castle_defender.html",
+"base": "a/duck_archer_master_3d_castle_defender/",
+"thumb": ""
+},
+{
+"id": "sel_pandemic",
+"name": "Pandemic",
+"path": "h/sel_pandemic.html",
+"base": "a/sel_pandemic/",
+"thumb": ""
+},
+{
+"id": "duck_raftwars",
+"name": "Raftwars",
+"path": "h/duck_raftwars.html",
+"base": "a/duck_raftwars/",
+"thumb": ""
+},
+{
+"id": "sel_thisistheonlylevel2",
+"name": "Thisistheonlylevel2",
+"path": "h/sel_thisistheonlylevel2.html",
+"base": "a/sel_thisistheonlylevel2/",
+"thumb": "c/sel_thisistheonlylevel2.png"
+},
+{
+"id": "duck_stormthehouse3",
+"name": "Stormthehouse3",
+"path": "h/duck_stormthehouse3.html",
+"base": "a/duck_stormthehouse3/",
+"thumb": ""
+},
+{
+"id": "sel_theimpossiblegame",
+"name": "Theimpossiblegame",
+"path": "h/sel_theimpossiblegame.html",
+"base": "a/sel_theimpossiblegame/",
+"thumb": ""
+},
+{
+"id": "sel_riddleschool2",
+"name": "Riddleschool2",
+"path": "h/sel_riddleschool2.html",
+"base": "a/sel_riddleschool2/",
+"thumb": "c/sel_riddleschool2.png"
+},
+{
+"id": "sel_linerider",
+"name": "Linerider",
+"path": "h/sel_linerider.html",
+"base": "a/sel_linerider/",
+"thumb": ""
+},
+{
+"id": "sel_btd3",
+"name": "Btd3",
+"path": "h/sel_btd3.html",
+"base": "a/sel_btd3/",
+"thumb": "c/sel_btd3.png"
+},
+{
+"id": "duck_bloonstd3",
+"name": "Bloonstd3",
+"path": "h/duck_bloonstd3.html",
+"base": "a/duck_bloonstd3/",
+"thumb": ""
+},
+{
+"id": "sel_1v1lol",
+"name": "1V1Lol",
+"path": "h/sel_1v1lol.html",
+"base": "a/sel_1v1lol/",
+"thumb": "c/sel_1v1lol.png"
+},
+{
+"id": "sel_watermelongame",
+"name": "Watermelongame",
+"path": "h/sel_watermelongame.html",
+"base": "a/sel_watermelongame/",
+"thumb": ""
+},
+{
+"id": "duck_math_duck",
+"name": "Math Duck",
+"path": "h/duck_math_duck.html",
+"base": "a/duck_math_duck/",
+"thumb": ""
+},
+{
+"id": "sel_thisistheonlylevel",
+"name": "Thisistheonlylevel",
+"path": "h/sel_thisistheonlylevel.html",
+"base": "a/sel_thisistheonlylevel/",
+"thumb": "c/sel_thisistheonlylevel.png"
+},
+{
+"id": "sel_funnyshooter2",
+"name": "Funnyshooter2",
+"path": "h/sel_funnyshooter2.html",
+"base": "a/sel_funnyshooter2/",
+"thumb": ""
+},
+{
+"id": "sel_cubefield",
+"name": "Cubefield",
+"path": "h/sel_cubefield.html",
+"base": "a/sel_cubefield/",
+"thumb": ""
+},
+{
+"id": "sel_inf",
+"name": "Inf",
+"path": "h/sel_inf.html",
+"base": "a/sel_inf/",
+"thumb": ""
+},
+{
+"id": "duck_little_alchemy_2",
+"name": "Little Alchemy 2",
+"path": "h/duck_little_alchemy_2.html",
+"base": "a/duck_little_alchemy_2/",
+"thumb": ""
+},
+{
+"id": "sel_tetris",
+"name": "Tetris",
+"path": "h/sel_tetris.html",
+"base": "a/sel_tetris/",
+"thumb": "c/sel_tetris.png"
+},
+{
+"id": "sel_learntofly",
+"name": "Learntofly",
+"path": "h/sel_learntofly.html",
+"base": "a/sel_learntofly/",
+"thumb": "c/sel_learntofly.png"
+},
+{
+"id": "sel_fluidsim",
+"name": "Fluidsim",
+"path": "h/sel_fluidsim.html",
+"base": "a/sel_fluidsim/",
+"thumb": "c/sel_fluidsim.png"
+},
+{
+"id": "duck_super_mario_bros",
+"name": "Super Mario Bros",
+"path": "h/duck_super_mario_bros.html",
+"base": "a/duck_super_mario_bros/",
+"thumb": ""
+},
+{
+"id": "sel_run2",
+"name": "Run2",
+"path": "h/sel_run2.html",
+"base": "a/sel_run2/",
+"thumb": "c/sel_run2.jpg"
+},
+{
+"id": "duck_orb_farm",
+"name": "Orb Farm",
+"path": "h/duck_orb_farm.html",
+"base": "a/duck_orb_farm/",
+"thumb": ""
+},
+{
+"id": "sel_townscaper",
+"name": "Townscaper",
+"path": "h/sel_townscaper.html",
+"base": "a/sel_townscaper/",
+"thumb": "c/sel_townscaper.png"
+},
+{
+"id": "duck_choppy_orc",
+"name": "Choppy Orc",
+"path": "h/duck_choppy_orc.html",
+"base": "a/duck_choppy_orc/",
+"thumb": ""
+},
+{
+"id": "duck_street_fighter",
+"name": "Street Fighter",
+"path": "h/duck_street_fighter.html",
+"base": "a/duck_street_fighter/",
+"thumb": ""
+},
+{
+"id": "sel_btd2",
+"name": "Btd2",
+"path": "h/sel_btd2.html",
+"base": "a/sel_btd2/",
+"thumb": ""
+},
+{
+"id": "duck_bloonstd2",
+"name": "Bloonstd2",
+"path": "h/duck_bloonstd2.html",
+"base": "a/duck_bloonstd2/",
+"thumb": ""
+},
+{
+"id": "sel_worldshardestgame",
+"name": "Worldshardestgame",
+"path": "h/sel_worldshardestgame.html",
+"base": "a/sel_worldshardestgame/",
+"thumb": "c/sel_worldshardestgame.png"
+},
+{
+"id": "duck_theworldshardestgame",
+"name": "Theworldshardestgame",
+"path": "h/duck_theworldshardestgame.html",
+"base": "a/duck_theworldshardestgame/",
+"thumb": ""
+},
+{
+"id": "duck_discus",
+"name": "Discus",
+"path": "h/duck_discus.html",
+"base": "a/duck_discus/",
+"thumb": ""
+},
+{
+"id": "sel_paperio",
+"name": "Paperio",
+"path": "h/sel_paperio.html",
+"base": "a/sel_paperio/",
+"thumb": "c/sel_paperio.png"
+},
+{
+"id": "duck_backroomsv1_5",
+"name": "Backroomsv1.5",
+"path": "h/duck_backroomsv1_5.html",
+"base": "a/duck_backroomsv1_5/",
+"thumb": ""
+},
+{
+"id": "duck_spider_dude_parkour",
+"name": "Spider Dude Parkour",
+"path": "h/duck_spider_dude_parkour.html",
+"base": "a/duck_spider_dude_parkour/",
+"thumb": "c/duck_spider_dude_parkour.png"
+},
+{
+"id": "duck_crazycattle3d",
+"name": "Crazycattle3D",
+"path": "h/duck_crazycattle3d.html",
+"base": "a/duck_crazycattle3d/",
+"thumb": ""
+},
+{
+"id": "sel_riddleschool",
+"name": "Riddleschool",
+"path": "h/sel_riddleschool.html",
+"base": "a/sel_riddleschool/",
+"thumb": ""
+},
+{
+"id": "sel_worldhardestgame2",
+"name": "Worldhardestgame2",
+"path": "h/sel_worldhardestgame2.html",
+"base": "a/sel_worldhardestgame2/",
+"thumb": ""
+},
+{
+"id": "duck_nova_craft",
+"name": "Nova Craft",
+"path": "h/duck_nova_craft.html",
+"base": "a/duck_nova_craft/",
+"thumb": ""
+},
+{
+"id": "duck_ddlc",
+"name": "Ddlc",
+"path": "h/duck_ddlc.html",
+"base": "a/duck_ddlc/",
+"thumb": ""
+},
+{
+"id": "duck_grow_a_garden",
+"name": "Grow A Garden",
+"path": "h/duck_grow_a_garden.html",
+"base": "a/duck_grow_a_garden/",
+"thumb": "c/duck_grow_a_garden.png"
+},
+{
+"id": "duck_deadly_descent",
+"name": "Deadly Descent",
+"path": "h/duck_deadly_descent.html",
+"base": "a/duck_deadly_descent/",
+"thumb": "c/duck_deadly_descent.png"
+},
+{
+"id": "duck_fish_it",
+"name": "Fish It",
+"path": "h/duck_fish_it.html",
+"base": "a/duck_fish_it/",
+"thumb": ""
+},
+{
+"id": "sel_xp",
+"name": "Xp",
+"path": "h/sel_xp.html",
+"base": "a/sel_xp/",
+"thumb": ""
+},
+{
+"id": "sel_btd",
+"name": "Btd",
+"path": "h/sel_btd.html",
+"base": "a/sel_btd/",
+"thumb": ""
+},
+{
+"id": "duck_bloonstd",
+"name": "Bloonstd",
+"path": "h/duck_bloonstd.html",
+"base": "a/duck_bloonstd/",
+"thumb": ""
+},
+{
+"id": "duck_golf_orbit",
+"name": "Golf Orbit",
+"path": "h/duck_golf_orbit.html",
+"base": "a/duck_golf_orbit/",
+"thumb": ""
+},
+{
+"id": "duck_marble_skies",
+"name": "Marble Skies",
+"path": "h/duck_marble_skies.html",
+"base": "a/duck_marble_skies/",
+"thumb": ""
+},
+{
+"id": "sel_universal_paperclips",
+"name": "Universal Paperclips",
+"path": "h/sel_universal_paperclips.html",
+"base": "a/sel_universal_paperclips/",
+"thumb": ""
+},
+{
+"id": "sel_sprinter",
+"name": "Sprinter",
+"path": "h/sel_sprinter.html",
+"base": "a/sel_sprinter/",
+"thumb": ""
+},
+{
+"id": "sel_tron",
+"name": "Tron",
+"path": "h/sel_tron.html",
+"base": "a/sel_tron/",
+"thumb": "c/sel_tron.png"
+},
+{
+"id": "duck_staggering_beauty",
+"name": "Staggering Beauty",
+"path": "h/duck_staggering_beauty.html",
+"base": "a/duck_staggering_beauty/",
+"thumb": ""
+},
+{
+"id": "sel_1on1soccer",
+"name": "1On1Soccer",
+"path": "h/sel_1on1soccer.html",
+"base": "a/sel_1on1soccer/",
+"thumb": ""
+},
+{
+"id": "sel_doodlejump",
+"name": "Doodlejump",
+"path": "h/sel_doodlejump.html",
+"base": "a/sel_doodlejump/",
+"thumb": "c/sel_doodlejump.png"
+},
+{
+"id": "sel_spankthemonkey",
+"name": "Spankthemonkey",
+"path": "h/sel_spankthemonkey.html",
+"base": "a/sel_spankthemonkey/",
+"thumb": ""
+},
+{
+"id": "sel_iwbtc",
+"name": "Iwbtc",
+"path": "h/sel_iwbtc.html",
+"base": "a/sel_iwbtc/",
+"thumb": "c/sel_iwbtc.png"
+},
+{
+"id": "sel_solitaire",
+"name": "Solitaire",
+"path": "h/sel_solitaire.html",
+"base": "a/sel_solitaire/",
+"thumb": ""
+},
+{
+"id": "sel_snow",
+"name": "Snow",
+"path": "h/sel_snow.html",
+"base": "a/sel_snow/",
+"thumb": ""
+},
+{
+"id": "duck_smash_karts",
+"name": "Smash Karts",
+"path": "h/duck_smash_karts.html",
+"base": "a/duck_smash_karts/",
+"thumb": ""
+},
+{
+"id": "sel_sand",
+"name": "Sand",
+"path": "h/sel_sand.html",
+"base": "a/sel_sand/",
+"thumb": "c/sel_sand.png"
+},
+{
+"id": "duck_stormthehouse",
+"name": "Stormthehouse",
+"path": "h/duck_stormthehouse.html",
+"base": "a/duck_stormthehouse/",
+"thumb": ""
+},
+{
+"id": "sel_slope3",
+"name": "Slope3",
+"path": "h/sel_slope3.html",
+"base": "a/sel_slope3/",
+"thumb": ""
+},
+{
+"id": "sel_doom",
+"name": "Doom",
+"path": "h/sel_doom.html",
+"base": "a/sel_doom/",
+"thumb": ""
+},
+{
+"id": "sel_dino",
+"name": "Dino",
+"path": "h/sel_dino.html",
+"base": "a/sel_dino/",
+"thumb": "c/sel_dino.png"
+},
+{
+"id": "sel_drag",
+"name": "Drag",
+"path": "h/sel_drag.html",
+"base": "a/sel_drag/",
+"thumb": ""
+},
+{
+"id": "sel_hillclimbracing2",
+"name": "Hillclimbracing2",
+"path": "h/sel_hillclimbracing2.html",
+"base": "a/sel_hillclimbracing2/",
+"thumb": ""
+},
+{
+"id": "sel_fleeingthecomplex",
+"name": "Fleeingthecomplex",
+"path": "h/sel_fleeingthecomplex.html",
+"base": "a/sel_fleeingthecomplex/",
+"thumb": ""
+},
+{
+"id": "sel_ocarinaoftime",
+"name": "Ocarinaoftime",
+"path": "h/sel_ocarinaoftime.html",
+"base": "a/sel_ocarinaoftime/",
+"thumb": ""
+},
+{
+"id": "sel_space",
+"name": "Space",
+"path": "h/sel_space.html",
+"base": "a/sel_space/",
+"thumb": ""
+},
+{
+"id": "sel_2048",
+"name": "2048",
+"path": "h/sel_2048.html",
+"base": "a/sel_2048/",
+"thumb": "c/sel_2048.png"
+},
+{
+"id": "sel_funnyballgame",
+"name": "Funnyballgame",
+"path": "h/sel_funnyballgame.html",
+"base": "a/sel_funnyballgame/",
+"thumb": ""
+},
+{
+"id": "sel_shadow",
+"name": "Shadow",
+"path": "h/sel_shadow.html",
+"base": "a/sel_shadow/",
+"thumb": ""
+},
+{
+"id": "duck_grand_prix_multiplication",
+"name": "Grand Prix Multiplication",
+"path": "h/duck_grand_prix_multiplication.html",
+"base": "a/duck_grand_prix_multiplication/",
+"thumb": ""
+},
+{
+"id": "sel_infiltratingtheairship",
+"name": "Infiltratingtheairship",
+"path": "h/sel_infiltratingtheairship.html",
+"base": "a/sel_infiltratingtheairship/",
+"thumb": ""
+},
+{
+"id": "duck_fnaf_pizzeria_simulator",
+"name": "Fnaf Pizzeria Simulator",
+"path": "h/duck_fnaf_pizzeria_simulator.html",
+"base": "a/duck_fnaf_pizzeria_simulator/",
+"thumb": ""
+}
+]
